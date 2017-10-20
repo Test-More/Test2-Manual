@@ -28,6 +28,11 @@ writing new tools.
 
 The L<Test2::Manual::EndToEnd> is an overview of Test2 from load to finish.
 
+=head1 MIGRATING
+
+The L<TEST2::Manual::Migrating> is an short guide to assist when migrating from the
+Test:: family of modules to the TEST2:: modules.
+
 =head1 CONTRIBUTING
 
 The L<Test2::Manual::Contributing> POD is for people who want to contribute to
